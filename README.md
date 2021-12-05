@@ -11,8 +11,8 @@
 
 <div align="center"> 
   <a href="https://github.com/JooPjk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joopjk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joopjk&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JooPjk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooPjk&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
