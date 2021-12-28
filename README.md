@@ -4,25 +4,25 @@
 
 <hr>
  
- <div>
+<div>
   <a href="https://instagram.com/jopsilva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:conta1joaops@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-da-silva-4aa329222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div> 
+</div> 
  
- 
- 
-  
-### Olá, meu nome é João Pedro, estou cursando Sistemas de Informações!
 
+<h3 align="center">  <br>
 
-- :computer: I'm Autonomous.
+Olá, meu nome é João Pedro,!
+<br>
 
-- :house_with_garden: I’m from Brazil.
+ </h3>
 
-- :books: I’m currently learning C++ e Ethycal Hacking.
+```
+Estudante de Sistemas de Informações na Facthus - Faculdade de Talentos Humanos, 
+ atualmente estou estudando C++ e Ethycal Hacking.
+```
 
-- :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 <div align="center"> 
   <a href="https://github.com/JooPjk">
