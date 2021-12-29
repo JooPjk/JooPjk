@@ -13,14 +13,14 @@
 
 <h3 align="center">  <br>
 
-Olá, meu nome é João Pedro,!
+Olá, meu nome é João Pedro!
 <br>
 
 </h3>
 
 ```
 Estudante de Sistemas de Informações na Facthus - Faculdade de Talentos Humanos, 
-atualmente me dedico a ser analista de cybersegurança.
+atualmente me dedico a ser analista de cybersegurança e gosto de programação competitiva.
 ```
 
  ## O que estudo atualmente:
@@ -38,6 +38,8 @@ atualmente me dedico a ser analista de cybersegurança.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooPjk&layout=compact&langs_count=7&theme=dark"/>
     
 </div>
+ 
+ 
   
   
  
