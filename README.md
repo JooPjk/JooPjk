@@ -11,6 +11,7 @@
 Hello, Testers and Devs! Meu nome é João Pedro, Seja bem-vindo ao meu perfil GitHub.
 <br>
 
+</h3>
 
 ```
 - 🔰  Sou de Uberaba/MG, Brasil
